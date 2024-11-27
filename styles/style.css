@@ -157,3 +157,30 @@ line-height: 24px;
 margin-left: 85px;
 margin-top: 5px;
 }
+.header-blur-2{
+position: absolute;
+width: 193px;
+height: 98px;
+left: 1207px;
+top: 260px;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 12px;
+backdrop-filter: blur(20px);
+background: rgba(255, 255, 255, 0.1);
+}
+.price-2{
+color: rgb(255, 255, 255);
+font-size: 40px;
+font-weight: 900;
+line-height: 40px;
+margin-left: 30px;
+margin-top: 15px;
+}
+.free{
+color: rgba(255, 255, 255, 0.65);
+font-size: 13px;
+font-weight: 400;
+line-height: 20px;
+margin-left: 30px;
+margin-top: -35px;
+}
